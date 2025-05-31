@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khantayeb36
-- 👀 I’m interested in Problem solvings, engineerings and cool researches
+- 👀 I’m interested in problem solving, engineering and cool research
 - 🌱 I’m currently learning C, Electromagnatics, Calculus
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
